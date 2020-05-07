@@ -1,0 +1,2 @@
+# udemy_colab_sample
+UdemyのAI講座のサンプルノートブック
